@@ -34,12 +34,14 @@
 
 ### 📦 Projects
 
-#### 🔹 Real-time NYC Taxi Data Pipeline  
+#### 🔹 Real-time NYC Taxi Data Pipeline
 > End-to-end pipeline using GCP + Mage AI + Looker Studio  
 
-- Stored raw NYC taxi data into GCP Data lake.
+- Loaded raw NYC taxi data into GCS.
 - Performed transformations using Mage and stored results in BigQuery  
 - Visualized KPIs and trends using Looker Studio
+- [🔗 GitHub Repo](https://github.com/IshaM10/nyc-taxi-etl-pipeline)
+
 
 #### 🔹 Real-Time Fire Detection 🔥  
 > Final Year Academic Project — Deep Learning-based Fire Detection System  
