@@ -1,16 +1,68 @@
-## Hi there 👋
+<!-- GitHub Profile README -->
 
-<!--
-**IshaM10/IshaM10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋, I'm Isha </h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  💻 Data Engineer | 🧠 AI/ML Enthusiast | ☁️ Cloud Explorer  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🎓 I'm a Computer Engineering graduate from Mumbai University  
+- 💼 Previously worked as a **Data Engineer** at Khushibaby, focused on health data pipelines and analytics  
+- 🛠 I’ve built end-to-end ETL pipelines using tools like **Airflow**, **Dagster**, **Mage**, **Spark**, and **Kafka**  
+- 🌱 Currently experimenting with **Azure Databricks**, **PySpark**, and **Delta Lake** for building scalable pipelines  
+- 🎯 Goal: Transition into advanced **AI/ML Engineering** roles in the cloud/data space  
+- 🧩 Interested in real-time data processing, large-scale data warehousing, and model deployment
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+`Python` | `SQL` | `Java` | `C/C++`  
+
+**Data Engineering:**  
+`Apache Airflow` | `Mage.ai` | `Dagster` | `Spark` | `Kafka` | `Pandas` | `Delta Lake`  
+
+**Cloud & Tools:**  
+`Azure Databricks` | `GCP (BigQuery, GCS)`  `Docker` | `Kubernetes` | `Git` | `VSCode` | `Jupyter`  
+
+---
+
+### 📦 Projects
+
+#### 🔹 Real-time NYC Taxi Data Pipeline  
+> End-to-end pipeline using GCP + Mage AI + Looker Studio  
+
+- Stored raw NYC taxi data into GCP Data lake.
+- Performed transformations using Mage and stored results in BigQuery  
+- Visualized KPIs and trends using Looker Studio
+
+#### 🔹 Real-Time Fire Detection 🔥  
+> Final Year Academic Project — Deep Learning-based Fire Detection System  
+
+- A fire detection model utilizing Python, TensorFlow, and Keras  
+- Compiled and preprocessed a varied dataset of fire and non-fire scenes  
+- Designed and trained a Convolutional Neural Network (CNN) for accurate image classification  
+- Integrated the model seamlessly with a camera using OpenCV, demonstrating practical application of computer vision skills  
+
+---
+
+### 🧠 Currently Learning
+
+- Databricks Delta Lake & PySpark
+- Real-time & near real-time data processing techniques 
+
+---
+
+### 📬 Get in Touch
+
+- 📧 Email: ishamhatre.work@email.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/isha-mhatre/)
+
+---
+
+*Thanks for visiting my profile! Feel free to connect or collaborate!* 🤝
