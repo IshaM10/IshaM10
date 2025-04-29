@@ -56,7 +56,8 @@
 ### 🧠 Currently Learning
 
 - Databricks Delta Lake & PySpark
-- Real-time & near real-time data processing techniques 
+- Real-time & near real-time data processing techniques
+- Building a real-time weather data pipeline using OpenWeatherMap API → Azure Event Hub → Databricks Structured Streaming → Delta Lake on ADLS Gen2 for analytics and ML readiness.
 
 ---
 
