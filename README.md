@@ -12,7 +12,7 @@
 
 - 🎓 I'm a Computer Engineering graduate from Mumbai University  
 - 💼 Previously worked as a **Data Engineer** at Khushibaby, focused on health data pipelines and analytics  
-- 🛠 I’ve built end-to-end ETL pipelines using tools like **Airflow**, **Dagster**, **Mage**, **Spark**, and **Kafka**  
+- 🛠 I’ve built end-to-end ETL pipelines using tools like **Airflow**, **Dagster**, **Spark**, and **Kafka**  
 - 🌱 Currently experimenting with **Azure Databricks**, **PySpark**, and **Delta Lake** for building scalable pipelines  
 - 🎯 Goal: Transition into advanced **AI/ML Engineering** roles in the cloud/data space  
 - 🧩 Interested in real-time data processing, large-scale data warehousing, and model deployment
@@ -22,13 +22,13 @@
 ### 🛠️ Tech Stack
 
 **Languages:**  
-`Python` | `SQL` | `Java` | `C/C++`  
+`Python` | `SQL` 
 
 **Data Engineering:**  
-`Apache Airflow` | `Mage.ai` | `Dagster` | `Spark` | `Kafka` | `Pandas` | `Delta Lake`  
+`Apache Airflow` | `Dagster` | `Spark` | `Kafka` | `Iceberg` | `Delta Lake`
 
 **Cloud & Tools:**  
-`Azure Databricks` | `GCP (BigQuery, GCS)`  `Docker` | `Kubernetes` | `Git` | `VSCode` | `Jupyter`  
+`Azure Databricks` | `GCP (BigQuery, GCS)`  `Docker` | `Kubernetes` | `Git`
 
 ---
 
